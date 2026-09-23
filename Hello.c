@@ -7,6 +7,7 @@ int greeting(const char *name)
     return 0;
 }
 
+// Print a farewell message for
 int farewell(const char *name)
 {
     printf("Goodbye, %s!\n", name);
