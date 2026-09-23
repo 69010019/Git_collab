@@ -1,4 +1,5 @@
 #include <stdio.h> 
+// Print a greeting message for
 
 int greeting(const char *name)
 {
