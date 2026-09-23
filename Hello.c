@@ -18,7 +18,6 @@ int farewell(const char *name)
 int checkin(const char *name)
 {
     printf("%s are checked in\n", name);
-{
     printf("Goodbye, %s!\n", name);
     return 0;
 }
